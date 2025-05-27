@@ -1,0 +1,1 @@
+This is a placeholder Android Studio project structure for Casino Slots.
