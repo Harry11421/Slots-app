@@ -29,7 +29,6 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew assembleRelease
-
 - name: Upload APK
   uses: actions/upload-artifact@3c77dc99e49c66079ef946d6ef3047bd6d6a66df
   with:
